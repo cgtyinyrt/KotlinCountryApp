@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">KotlinCountryApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="error_try_again">Error! Try Again</string>
+    <string name="country_flag_test">country_flag_test</string>
+    <string name="country_flag_image_view">country_flag_image_view</string>
 </resources>
